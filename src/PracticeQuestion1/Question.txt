@@ -1,0 +1,4 @@
+Create an Arraylist of 10 employee. Think some attributes for employee. print the list.
+Process the list and add all the elements to tree set using iterative statement, print the tree set.
+Again add all the element of list to a new treeset using add all method, print the tree set,
+and note if there is any difference.
